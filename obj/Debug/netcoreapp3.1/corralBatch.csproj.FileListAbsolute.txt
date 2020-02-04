@@ -1,0 +1,11 @@
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.exe
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.deps.json
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.runtimeconfig.json
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.runtimeconfig.dev.json
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.dll
+C:\corralBatchScript\corralBatch\bin\Debug\netcoreapp3.1\corralBatch.pdb
+C:\corralBatchScript\corralBatch\obj\Debug\netcoreapp3.1\corralBatch.csprojAssemblyReference.cache
+C:\corralBatchScript\corralBatch\obj\Debug\netcoreapp3.1\corralBatch.AssemblyInfoInputs.cache
+C:\corralBatchScript\corralBatch\obj\Debug\netcoreapp3.1\corralBatch.AssemblyInfo.cs
+C:\corralBatchScript\corralBatch\obj\Debug\netcoreapp3.1\corralBatch.dll
+C:\corralBatchScript\corralBatch\obj\Debug\netcoreapp3.1\corralBatch.pdb
